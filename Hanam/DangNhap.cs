@@ -35,11 +35,9 @@ namespace Hanam
                 int result = (int)cmd.ExecuteScalar();
                 if(result == 1)
                 {
-                    MessageBox.Show("Đăng Nhập Thành Công!", "Thông Báo!");
                     GiaoTrinh giaoTrinh = new GiaoTrinh();  
                     giaoTrinh.Show();
                     this.Close();
-                    
                 }
                 else
                 {
