@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\Hanam\Hanam\bin\Debug\Hanam.exe.config
+C:\Users\Administrator\Desktop\Hanam\Hanam\bin\Debug\Hanam.exe
+C:\Users\Administrator\Desktop\Hanam\Hanam\bin\Debug\Hanam.pdb
+C:\Users\Administrator\Desktop\Hanam\Hanam\obj\Debug\Hanam.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Hanam\Hanam\obj\Debug\Hanam.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Hanam\Hanam\obj\Debug\Hanam.DangNhap.resources
+C:\Users\Administrator\Desktop\Hanam\Hanam\obj\Debug\Hanam.HeThong.resources
+C:\Users\Administrator\Desktop\Hanam\Hanam\obj\Debug\Hanam.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Hanam\Hanam\obj\Debug\Hanam.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Hanam\Hanam\obj\Debug\Hanam.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Hanam\Hanam\obj\Debug\Hanam.exe
+C:\Users\Administrator\Desktop\Hanam\Hanam\obj\Debug\Hanam.pdb
+C:\Users\Administrator\Desktop\Hanam\Hanam\obj\Debug\Hanam.GiaoTrinh.resources
